@@ -1,0 +1,51 @@
+/* Flockton hub: extends the shared Pigeonslip site styles with the tool grid. */
+.tools {
+  display: grid;
+  gap: 16px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.tool {
+  padding: 20px;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: var(--r);
+}
+.tool h3 {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+.tool h3 a {
+  color: var(--text);
+}
+.tool p {
+  margin: 0 0 10px;
+}
+.tool .links {
+  margin: 0;
+}
+.tool .links a {
+  display: inline-block;
+  padding: 10px 0;
+}
+.tag {
+  font-size: 0.8125rem;
+  font-weight: 400;
+  color: var(--text-2);
+  padding: 2px 8px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+}
+@media (min-width: 720px) {
+  .tools {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+@media (min-width: 1040px) {
+  .tools {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
