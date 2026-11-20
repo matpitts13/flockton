@@ -5,5 +5,5 @@
   "name": "flockton",
   "compatibility_date": "2026-11-19",
   "assets": { "directory": "site" },
-  "routes": [{ "pattern": "flockton.ravenburst.com", "custom_domain": true }]
+  "routes": [{ "pattern": "flock-ton.ravenburst.com", "custom_domain": true }]
 }

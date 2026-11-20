@@ -4,7 +4,7 @@
 
 Free, open-source Windows apps for small online sellers (TikTok Shop, Etsy, eBay). Each tool does one packing-table job and runs entirely on your own computer.
 
-**Website:** https://flockton.ravenburst.com
+**Website:** https://flock-ton.ravenburst.com
 
 | Tool | What it does | Status |
 | --- | --- | --- |
