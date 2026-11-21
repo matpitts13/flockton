@@ -9,7 +9,7 @@ Free, open-source Windows apps for small online sellers (TikTok Shop, Etsy, eBay
 | Tool | What it does | Status |
 | --- | --- | --- |
 | [Pigeonslip](https://github.com/matpitts13/pigeonslip) | Shipping labels at 4 × 6 in, two to a letter page | Released |
-| Robin | Thank-you stickers and package inserts | In progress |
+| [Robin](https://github.com/matpitts13/flockton-robin) | Thank-you stickers and package inserts, for sticker sheets, cardstock or a Cricut | Released ([robin.ravenburst.com](https://robin.ravenburst.com)) |
 | Weaverbird | Packing slips and invoices from order exports | Planned |
 | Magpie | SKU and barcode labels | Planned |
 | Egret | Product-photo cleanup | Planned |
